@@ -1,0 +1,15 @@
+{
+  "name": "I Love You Baby",
+  "short_name": "MMMUUUUUAAAAAA",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#222222",
+  "icons": [
+    {
+      "src": "heartLogo.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
